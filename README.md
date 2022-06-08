@@ -1,1 +1,2 @@
 # Landing-page
+Então, fiz a parte do javascript bem básica para implementar no projeto, vendo videos no youtube. É um passador de fotos que logo após 3 segundos ele vai trocando automaticamente (tem a opção de trocar manualmente) de imagem, no caso as casas. Visando ser meu primeiro projeto estou muito contente com minha evolução com as novas linguagens que estou aprendendo, principalmente HTML e CSS.
